@@ -1,0 +1,1 @@
+完全拷贝自 https://github.com/lovedise/PermissionGen
